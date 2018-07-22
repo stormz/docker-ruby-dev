@@ -1,4 +1,4 @@
-FROM ruby:2.3
+FROM ruby:2.5
 
 ENV APP_ROOT /code
 ENV BUNDLE_APP_CONFIG ${APP_ROOT}/.bundle
